@@ -1,8 +1,8 @@
 # UniversityProjects
 
-![GitHub](https://img.shields.io/github/license/kebiri-isam-dine/UniversityProjects?color=g&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/kebiri-isam-dine/UniversityProjects?color=red&style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/kebiri-isam-dine/UniversityProjects?color=yellow&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/issam-kebiri/UniversityProjects?color=g&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/issam-kebiri/UniversityProjects?color=red&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/issam-kebiri/UniversityProjects?color=yellow&style=for-the-badge)
 
 
 ![GitHub dev_language](<https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white>)
@@ -17,8 +17,8 @@
 ![GitHub dev_language](https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E)
 
 
-![GitHub Org's stars](https://img.shields.io/github/stars/kebiri-isam-dine?style=social)
-![GitHub followers](https://img.shields.io/github/followers/kebiri-isam-dine?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/issam-kebiri?style=social)
+![GitHub followers](https://img.shields.io/github/followers/issam-kebiri?style=social)
 
 ## About The Project
 
@@ -45,8 +45,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install each pa
 
 ## Contact
 
-📫 How to reach me: *kebiri.isam.dine@gmail.com*
+📫 How to reach me: *issam.eddine.kebiri@gmail.com*
 
-🌐 My Portfolio: *<https://kebiri-isam-dine.github.io/>*
+🌐 My Portfolio: *<https://issam-kebiri.github.io/>*
 
-🔗 Project Link: [https://github.com/Kebiri-isam-dine/UniversityProjects](https://github.com/Kebiri-isam-dine/UniversityProjects)
+🔗 Project Link: [https://github.com/issam-kebiri/UniversityProjects](https://github.com/issam-kebiri/UniversityProjects)
