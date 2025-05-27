@@ -1,16 +1,16 @@
 # Analyse histopathologique des maladies hépatiques par le Deep Learning
 
-![GitHub](https://img.shields.io/github/license/kebiri-isam-dine/UniversityProjects?color=g&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/kebiri-isam-dine/UniversityProjects?color=red&style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/kebiri-isam-dine/UniversityProjects?color=yellow&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/issam-kebiri/UniversityProjects?color=g&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/issam-kebiri/UniversityProjects?color=red&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/issam-kebiri/UniversityProjects?color=yellow&style=for-the-badge)
 
 ![GitHub dev_language](https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=white)
 ![GitHub dev_language](<https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white>)
 ![GitHub dev_language](<https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white>)
 ![GitHub dev_language](<https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white>)
 
-![GitHub Org's stars](https://img.shields.io/github/stars/kebiri-isam-dine?style=social)
-![GitHub followers](https://img.shields.io/github/followers/kebiri-isam-dine?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/issam-kebiri?style=social)
+![GitHub followers](https://img.shields.io/github/followers/issam-kebiri?style=social)
 
 ## About The Project
 Notre travail de recherche présente une étude de segmentation d’images histopathologiques des hépatites du foie en s’inspirant des nouvelles approches et études dans le domaine d’apprentissage profond.
@@ -141,8 +141,8 @@ L’organigramme de notre approche proposée est illustré ci-dessous :
 
 ## Contact
 
-📫 How to reach me: kebiri.isam.dine@gmail.com
+📫 How to reach me: issam.eddine.kebiri@gmail.com
 
-🌐 My Portfolio: <https://kebiri-isam-dine.github.io/>
+🌐 My Portfolio: <https://issam-kebiri.github.io/>
 
-🔗 Project Link: [https://github.com/kebiri-isam-dine/UniversityProjects/tree/main/Analyse-histopathologique-par-le-Deep-Learning](https://github.com/kebiri-isam-dine/UniversityProjects/tree/main/Analyse-histopathologique-par-le-Deep-Learning)
+🔗 Project Link: [https://github.com/issam-kebiri/UniversityProjects/tree/main/Analyse-histopathologique-par-le-Deep-Learning](https://github.com/issam-kebiri/UniversityProjects/tree/main/Analyse-histopathologique-par-le-Deep-Learning)
